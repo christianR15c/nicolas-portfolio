@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3a72264a.css",
+    "main.js": "/static/js/main.521fc849.js",
+    "static/media/work4.png": "/static/media/work4.0bde1c9f983a4090f169.png",
+    "static/media/work10.png": "/static/media/work10.fcb3dd3f589f14a8e940.png",
+    "static/media/work7.png": "/static/media/work7.7dc0a496d193b933eb5f.png",
+    "static/media/work5.png": "/static/media/work5.d14cba02b1229b769811.png",
+    "static/media/testimonial1.png": "/static/media/testimonial1.74df7bdb0e98333a2037.png",
+    "static/media/testimonial2.png": "/static/media/testimonial2.d6b0e29c2ab6f6d54134.png",
+    "static/media/testimonial3.png": "/static/media/testimonial3.256702284474345bd566.png",
+    "static/media/work8.png": "/static/media/work8.4a9528ce4831b89d9bd1.png",
+    "static/media/work12.png": "/static/media/work12.75e0b62bf133a09b573c.png",
+    "static/media/work6.png": "/static/media/work6.8cfe32eca6980ee82451.png",
+    "static/media/Nicolas_Malonga_Resume_2022_B.pdf": "/static/media/Nicolas_Malonga_Resume_2022_B.22ab0fe4c92d11447484.pdf",
+    "static/media/nicolas.jpeg": "/static/media/nicolas.6d25a7b01e4e9af87ada.jpeg",
+    "static/media/work9.png": "/static/media/work9.aee985961b648f4df1f2.png",
+    "static/media/work1.webp": "/static/media/work1.b31373d5bd2ad72eddfc.webp",
+    "static/media/work11.png": "/static/media/work11.44f80974b1e38f442a58.png",
+    "static/media/work3.webp": "/static/media/work3.3506e456240147eb95fc.webp",
+    "static/media/work2.webp": "/static/media/work2.1b0e4a4090ab6a23955e.webp",
+    "index.html": "/index.html",
+    "main.3a72264a.css.map": "/static/css/main.3a72264a.css.map",
+    "main.521fc849.js.map": "/static/js/main.521fc849.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a72264a.css",
+    "static/js/main.521fc849.js"
+  ]
+}

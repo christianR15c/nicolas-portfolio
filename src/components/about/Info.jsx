@@ -5,7 +5,7 @@ import './about.css'
 const Info = () => {
     return (
         <div className='about__info grid'>
-            {
+            {/* {
                 infoData.map((info, index) => (
                     <div className="about__box" key={index}>
                         <i class={`${info.icon} about__icon`}></i>
@@ -13,7 +13,7 @@ const Info = () => {
                         <span className="about__subtitle">{info.subtitle}</span>
                     </div>
                 ))
-            }
+            } */}
         </div>
     )
 }
